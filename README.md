@@ -3,6 +3,12 @@
 Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “Prêmio”, 
 * O campeonato dura 6 mesês ou até entrar um **novo integrante** para a equipe.
 
+##Regras (em Aprovação)
+* Partidas de 5 Minutos;
+* Não é permitido rodar / girar o jogador;
+* Perder de 0 é obrigatório passar em baixo da mesa;
+* Cara ou coroa para definir lado ou bola.
+
 ##Tabela
 
 | Nome  | Pontos  | Gols  |  
