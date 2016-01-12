@@ -1,4 +1,4 @@
-![Image of Pebolim](https://i.ytimg.com/vi/Azv7BUcyq0M/maxresdefault.jpg)
+![Image of Pebolim](http://www.iconeinternet.com.br/copa.jpg)
 
 #Pontuação Pebolim 😂😂😂
 Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “Prêmio”, 
