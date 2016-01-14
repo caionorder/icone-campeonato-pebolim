@@ -14,12 +14,12 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
-| Jeffo  | 19  |  26 |
-| Caio   | 16  | 20 |
-| Elvis  |  16 | 14  |
-| Matheus  |  9 |  17 |
-| Moni  |  6 | 26  |
-| 🔦 Milena  | 4  |  10 |
+| Jeffo  | 25  |  31 |
+| Caio   | 22  | 30 |
+| Elvis  |  16 | 16  |
+| Matheus  |  12 |  23 |
+| Moni  |  9 | 28  |
+| 🔦 Milena  | 4  |  11 |
 
 ##Premiação 🎁
 Em análise pela diretoria.
