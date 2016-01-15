@@ -18,7 +18,7 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 | Jeffo  | 25  |  39 |
 | Elvis  |  19 | 22  |
 | Matheus  |  18 |  34 |
-| Moni  |  12 | 36  |
+| Moni  |  12 | 37  |
 | 🔦 Milena  | 4  |  17 |
 
 ##Premiação 🎁
