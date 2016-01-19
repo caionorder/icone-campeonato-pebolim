@@ -2,7 +2,7 @@
 
 #Pontuação Pebolim 😂😂😂
 Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “Prêmio”, 
-* O campeonato dura 3 mesês ou até entrar um **novo integrante** para a equipe.
+* O campeonato dura 1 mês ou até entrar um **novo integrante** para a equipe.
 
 ##Regras 👍
 * Partidas de 5 Minutos;
