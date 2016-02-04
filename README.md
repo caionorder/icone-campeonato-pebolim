@@ -14,11 +14,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
-| 👑⚽️ Matheus  |  12 |  28 |
-| Caio | 12  | 21 |
-| Milena | 9  |  22 |
-| Jeffo | 9  |  11 |
-| Moni |  6 | 9  |
+| 👑⚽️ Matheus  |  18 |  35 |
+| Caio | 18  | 27 |
+| Jeffo | 12  |  17 |
+| Milena | 9  |  24 |
+| Moni |  9 | 11  |
 | 🔦 João |  3 | 8  |
 
 
