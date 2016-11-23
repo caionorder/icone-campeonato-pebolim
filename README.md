@@ -5,12 +5,29 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 * O campeonato dura 1 mês ou até entrar um **novo integrante** para a equipe.
 
 ##Regras 👍
-* Partidas de 5 Minutos;
+* Partidas de 5 Minutos ou até 6;
 * Não é permitido rodar / girar o jogador;
 * Perder de 0 é obrigatório passar em baixo da mesa;
 * Cara ou coroa para definir lado ou bola.
 
 ##Tabela 👀
+
+| Nome  | Pontos  | Gols  |  
+|---|---|---|
+| 👑 Junior  |  6 |  9 |
+| Jeffo | 6  | 4 |
+| ⚽️ Caio | 3  |  10 |
+| Milena |  3 | 7  |
+| João | 3  |  4 |
+| Moni | 3  |  2 |
+| Elvis | 0  |  4 |
+| 🔦 Fabi | 0  |  0 |
+
+
+##Premiação 🎁
+Em análise pela diretoria.
+
+##Tabela Antiga
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
@@ -20,12 +37,6 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 | Moni |  26 | 44  |
 | Milena | 20  |  64 |
 | 🔦 João |  13 | 27  |
-
-
-##Premiação 🎁
-Em análise pela diretoria.
-
-
 
 ##Tabela Janeiro
 
