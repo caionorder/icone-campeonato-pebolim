@@ -1,4 +1,4 @@
-![Image of Pebolim](http://www.iconeinternet.com.br/copa.jpg?Ass)
+
 
 #Pontuação Pebolim 😂😂😂
 Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “Prêmio”, 
@@ -23,6 +23,8 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 | Elvis | 8  |  10 |
 | 🔦 Fabi | 2  |  5 |
 
+##Times
+![Image of Times](https://www.iconeinternet.com.br/times.jpg?Ass)
 
 ##Premiação 🎁
 Em análise pela diretoria.
