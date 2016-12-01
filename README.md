@@ -14,14 +14,14 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
-| 👑 João | 25  |  11 |
-| ⚽️ Caio | 23  |  48 |
-|  Milena |  20 | 35  |
-| Elvis | 20 | 24 |
-| Junior  |  19 |  44 |
-| Moni | 19  | 23 |
-| Jeffo | 16  | 20 |
-| 🔦 Fabi | 2  |  5 |
+| 👑 João | 31  |  16 |
+| ⚽️ Caio | 29  |  55 |
+|  Milena |  23 | 38  |
+| Junior  |  22 |  50 |
+| Moni | 22  | 25 |
+| Elvis | 20 | 26 |
+| Jeffo | 19  | 25 |
+| 🔦 Fabi | 2  |  9 |
 
 ##Times
 ![Image of Times](https://www.iconeinternet.com.br/times.jpg?Ass)
