@@ -1,7 +1,7 @@
 
 
 #Pontuação Pebolim 😂😂😂
-Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “Prêmio”, 
+Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “Prêmio”,
 * O campeonato dura 1 mês ou até entrar um **novo integrante** para a equipe.
 
 ##Regras 👍
@@ -14,14 +14,14 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
-| 👑⚽️ Caio | 44  |  73 |
-| Elvis | 41 | 47 |
-| Junior  |  38 |  73 |
-| João | 37  |  29 |
-| Milena |  35 | 57  |
-| Jeffo | 35  | 49 |
-| Moni | 26  | 35 |
-| 🔦 Fabi | 6  |  16 |
+| 👑 Caio | 50  |  76 |
+| ⚽️ Junior  |  44 |  82 |
+| Elvis | 41 | 49 |
+| João | 40  |  31 |
+| Milena |  38 | 66  |
+| Jeffo | 38  | 55 |
+| Moni | 26  | 36 |
+| 🔦 Fabi | 9  |  16 |
 
 ##Times
 ![Image of Times](https://www.iconeinternet.com.br/times.jpg?Ass)
