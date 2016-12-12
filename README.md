@@ -23,6 +23,9 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 | Caio | 0  |  1 |
 | 🔦 Fabi | 0  |  1 |
 
+##Times
+![Image of Times](https://www.iconeinternet.com.br/times.jpg?Ass)
+
 ##Tabela - Dezembro
 
 | Nome  | Pontos  | Gols  |  
@@ -35,9 +38,6 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 | João | 40  |  32 |
 | Moni | 32  | 38 |
 | 🔦 Fabi | 12  |  20 |
-
-##Times
-![Image of Times](https://www.iconeinternet.com.br/times.jpg?Ass)
 
 ##Premiação 🎁
 Em análise pela diretoria.
