@@ -18,20 +18,173 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 | Elvis | 6 | 2 |
 | Moni | 3  | 7 |
 | Jeffo | 3  | 6 |
-| ️Junior  |  3 |  2 |
+| Junior  |  3 |  2 |
 | João | 3  |  1 |
 | Caio | 0  |  1 |
 | 🔦 Fabi | 0  |  1 |
 
-##Times
-![Image of Times](https://www.iconeinternet.com.br/times.jpg?Ass)
+##Rodada - 01
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| Caio | - | Fabi |
+|2| Elvis | - | Milena |
+|3| Jeffo | - | Junão |
+|4| Moni | - | João |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|12/12/2016| 1 | x | 4 |
+|12/12/2016| 2 | x | 3 |
+|Perdedor| 3 | x | 4 |
+|Ganhador| 1 | x | 2 |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|21/12/2016| 1 | x | 3 |
+|21/12/2016| 2 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+
+##Rodada - 02
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| Fabi | - | Junão |
+|2| Milena | - | João |
+|3| Jeffo | - | Moni |
+|4| Elvis | - | Caio |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|13/12/2016| 3 | x | 2 |
+|13/12/2016| 1 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|22/12/2016| 3 | x | 1 |
+|22/12/2016| 2 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+##Rodada - 03
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| João | - | Junão |
+|2| Fabi | - | Moni |
+|3| Milena | - | Caio |
+|4| Jeffo | - | Elvis |
+
+##Jogos
+|Data | A  | -  | B |  
+|---|---|---|---|
+|14/12/2016| 4 | x | 3 |
+|14/12/2016| 2 | x | 1 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|23/12/2016| 2 | x | 3 |
+|23/12/2016| 1 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+##Rodada - 04
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| Caio | - | Junão |
+|2| Moni | - | Elvis |
+|3| João | - | Jeffo |
+|4| Fabi | - | Milena |
+##Jogos
+|Data | A  | -  | B |  
+|---|---|---|---|
+|15/12/2016| 4 | x | 3 |
+|15/12/2016| 2 | x | 1 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|26/12/2016| 2 | x | 3 |
+|26/12/2016| 1 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+##Rodada - 05
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| Milena | - | Junão |
+|2| Jeffo | - | Fabi |
+|3| Elvis | - | João |
+|4| Caio | - | Moni |
+##Jogos
+|Data | A  | -  | B |  
+|---|---|---|---|
+|16/12/2016| 1 | x | 3 |
+|16/12/2016| 2 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|27/12/2016| 2 | x | 3 |
+|27/12/2016| 1 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+##Rodada - 06
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| Moni | - | Junão |
+|2| Caio | - | João |
+|3| Fabi | - | Elvis |
+|4| Milena | - | Jeffo |
+##Jogos
+|Data | A  | -  | B |  
+|---|---|---|---|
+|19/12/2016| 4 | x | 3 |
+|19/12/2016| 2 | x | 1 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|28/12/2016| 2 | x | 3 |
+|28/12/2016| 1 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+##Rodada - 07
+|Cod. | Nome  | -  | Nome  |  
+|---|---|---|---|
+|1| Elvis | - | Junão |
+|2| Caio | - | Jeffo |
+|3| Moni | - | Milena |
+|4| João | - | Fabi |
+##Jogos
+|Data | A  | -  | B |  
+|---|---|---|---|
+|20/12/2016| 2 | x | 4 |
+|20/12/2016| 1 | x | 3 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
+
+|Data | A  | -  | B |  
+|---|---|---|---|
+|29/12/2016| 3 | x | 2 |
+|29/12/2016| 1 | x | 4 |
+|Perdedor|  | x |  |
+|Ganhador|  | x |  |
 
 ##Tabela - Dezembro
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
 | 👑⚽ Caio | 56  |  86 |
-| ️ Junior  |  47 |  85 |
+| Junior  |  47 |  85 |
 | Milena |  41 | 67  |
 | Jeffo | 41  | 59 |
 | Elvis | 41 | 51 |
