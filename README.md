@@ -14,13 +14,13 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 
 | Nome  | Pontos  | Gols  |  
 |---|---|---|
-| 👑⚽ Milena |  6 | 9  |
-| Elvis | 6 | 2 |
-| Moni | 3  | 7 |
-| Jeffo | 3  | 6 |
-| Junior  |  3 |  2 |
-| João | 3  |  1 |
-| Caio | 0  |  1 |
+| 👑 Elvis | 12 | 5 |
+| ⚽ Milena |  9 | 19  |
+| Moni | 6  | 16 |
+| Caio | 6  |  9 |
+| Jeffo | 6  | 6 |
+| João | 6  |  1 |
+| Junior  |  3 |  7 |
 | 🔦 Fabi | 0  |  1 |
 
 ##Rodada - 01
@@ -42,7 +42,7 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |21/12/2016| 1 | x | 3 |
 |21/12/2016| 2 | x | 4 |
-|Perdedor|  | x |  |
+|Perdedor|   | x |  |
 |Ganhador|  | x |  |
 
 
@@ -58,8 +58,8 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |13/12/2016| 3 | x | 2 |
 |13/12/2016| 1 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
+|Perdedor| 3 | x | 1 |
+|Ganhador| 2 | x | 4 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
