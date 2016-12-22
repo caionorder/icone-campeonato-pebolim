@@ -35,15 +35,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |12/12/2016| 1 | x | 4 |
 |12/12/2016| 2 | x | 3 |
-|Perdedor| 3 | x | 4 |
-|Ganhador| 1 | x | 2 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |21/12/2016| 1 | x | 3 |
 |21/12/2016| 2 | x | 4 |
-|Perdedor|   | x |  |
-|Ganhador|  | x |  |
 
 
 ##Rodada - 02
@@ -58,15 +54,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |13/12/2016| 3 | x | 2 |
 |13/12/2016| 1 | x | 4 |
-|Perdedor| 3 | x | 1 |
-|Ganhador| 2 | x | 4 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |22/12/2016| 3 | x | 1 |
 |22/12/2016| 2 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 ##Rodada - 03
 |Cod. | Nome  | -  | Nome  |  
@@ -81,15 +73,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |14/12/2016| 4 | x | 3 |
 |14/12/2016| 2 | x | 1 |
-|Perdedor| 4 | x | 2 |
-|Ganhador| 3 | x | 1 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |23/12/2016| 2 | x | 3 |
 |23/12/2016| 1 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 ##Rodada - 04
 |Cod. | Nome  | -  | Nome  |  
@@ -103,15 +91,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |15/12/2016| 4 | x | 3 |
 |15/12/2016| 2 | x | 1 |
-|Perdedor| 4 | x | 1 |
-|Ganhador| 2 | x | 3 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |26/12/2016| 2 | x | 3 |
 |26/12/2016| 1 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 ##Rodada - 05
 |Cod. | Nome  | -  | Nome  |  
@@ -125,15 +109,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |16/12/2016| 1 | x | 3 |
 |16/12/2016| 2 | x | 4 |
-|Perdedor| 3 | x | 2 |
-|Ganhador| 1 | x | 4 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |27/12/2016| 2 | x | 3 |
 |27/12/2016| 1 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 ##Rodada - 06
 |Cod. | Nome  | -  | Nome  |  
@@ -147,15 +127,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |19/12/2016| 4 | x | 3 |
 |19/12/2016| 2 | x | 1 |
-|Perdedor| 3 | x | 1 |
-|Ganhador| 2 | x | 4 |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |28/12/2016| 2 | x | 3 |
 |28/12/2016| 1 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 ##Rodada - 07
 |Cod. | Nome  | -  | Nome  |  
@@ -169,15 +145,11 @@ Pontuação campeonato Ícone Agência Digital, o vencedor tera direito a um “
 |---|---|---|---|
 |20/12/2016| 2 | x | 4 |
 |20/12/2016| 1 | x | 3 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 |Data | A  | -  | B |  
 |---|---|---|---|
 |29/12/2016| 3 | x | 2 |
 |29/12/2016| 1 | x | 4 |
-|Perdedor|  | x |  |
-|Ganhador|  | x |  |
 
 ##Tabela - Dezembro
 
